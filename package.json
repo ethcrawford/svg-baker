@@ -1,0 +1,28 @@
+{
+  "name": "svg-baker",
+  "description": "Grunt configuration with svg-sprite.",
+  "version": "1.0.0",
+  "keywords": [
+    "svg-sprite",
+    "grunt"
+  ],
+  "homepage": "https://github.com/ethcrawford/svg-baker#readme",
+  "bugs": {
+    "url": "https://github.com/ethcrawford/svg-baker/issues",
+    "email": "ethcrawford@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ethcrawford/svg-baker.git"
+  },
+  "author": "Ethan Crawford <ethcrawford@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "grunt"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-svg-sprite": "^1.5.0"
+  }
+}
